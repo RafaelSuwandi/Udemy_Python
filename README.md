@@ -13,7 +13,7 @@ Welcome to my daily documentation repository for the **100 Days of Code Python B
 Below is the compilation of daily topics, exercises, and projects successfully built from scratch:
 
 ### 🟢 Phase 1: Beginner (Python Fundamentals)
-- [ ] **Day 1: Working with Variables** — *Project: Band Name Generator*
+- [x] **Day 1: Working with Variables** — *Project: Band Name Generator*
 - [ ] **Day 2: Data Types & Manipulating Strings** — *Project: Tip Calculator*
 - [ ] **Day 3: Control Flow & Logical Operators** — *Project: Treasure Island Game*
 - [ ] **Day 4: Randomisation & Python Lists** — *Project: Rock Paper Scissors*
