@@ -14,8 +14,8 @@ Below is the compilation of daily topics, exercises, and projects successfully b
 
 ### 🟢 Phase 1: Beginner (Python Fundamentals)
 - [x] **Day 1: Working with Variables** — *Project: Band Name Generator*
-- [ ] **Day 2: Data Types & Manipulating Strings** — *Project: Tip Calculator*
-- [ ] **Day 3: Control Flow & Logical Operators** — *Project: Treasure Island Game*
+- [x] **Day 2: Data Types & Manipulating Strings** — *Project: Tip Calculator*
+- [x] **Day 3: Control Flow & Logical Operators** — *Project: Treasure Island Game*
 - [ ] **Day 4: Randomisation & Python Lists** — *Project: Rock Paper Scissors*
 - [ ] **Day 5: Python Loops** — *Project: PyPassword Generator*
 
